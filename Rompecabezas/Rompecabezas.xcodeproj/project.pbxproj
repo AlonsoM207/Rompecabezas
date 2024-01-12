@@ -69,6 +69,7 @@
 		11740F5F2B51AD580090B87A /* SE.gif in Resources */ = {isa = PBXBuildFile; fileRef = 11740F3E2B51AD580090B87A /* SE.gif */; };
 		11740F602B51AD580090B87A /* SD.gif in Resources */ = {isa = PBXBuildFile; fileRef = 11740F3F2B51AD580090B87A /* SD.gif */; };
 		11740F612B51AD580090B87A /* SS.gif in Resources */ = {isa = PBXBuildFile; fileRef = 11740F402B51AD580090B87A /* SS.gif */; };
+		11740F642B51B17B0090B87A /* PuzzleSigns 1.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 11740F632B51B17B0090B87A /* PuzzleSigns 1.mlmodel */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -135,6 +136,7 @@
 		11740F3E2B51AD580090B87A /* SE.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = SE.gif; sourceTree = "<group>"; };
 		11740F3F2B51AD580090B87A /* SD.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = SD.gif; sourceTree = "<group>"; };
 		11740F402B51AD580090B87A /* SS.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = SS.gif; sourceTree = "<group>"; };
+		11740F632B51B17B0090B87A /* PuzzleSigns 1.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = "PuzzleSigns 1.mlmodel"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -201,6 +203,7 @@
 		11740EF52B51AB330090B87A /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				11740F632B51B17B0090B87A /* PuzzleSigns 1.mlmodel */,
 				11740EF62B51AB420090B87A /* PredictionStatus.swift */,
 			);
 			path = Model;
@@ -416,6 +419,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				11740F642B51B17B0090B87A /* PuzzleSigns 1.mlmodel in Sources */,
 				11740ED62B51A7F50090B87A /* ContentView.swift in Sources */,
 				11740EEC2B51AAB30090B87A /* LetrasView.swift in Sources */,
 				11740EF02B51AAC20090B87A /* Letra.swift in Sources */,
