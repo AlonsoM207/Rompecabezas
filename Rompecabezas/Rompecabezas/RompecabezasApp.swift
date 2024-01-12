@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct Proyecto_Equipo1App: App {
+struct RompecabezasApp: App {
     
     @StateObject private var predictionStatus = PredictionStatus()
     //@StateObject private var predictionStatus2 = PredictionStatus2()
