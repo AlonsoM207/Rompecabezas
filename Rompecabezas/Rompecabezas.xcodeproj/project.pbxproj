@@ -9,7 +9,6 @@
 /* Begin PBXBuildFile section */
 		11740ED42B51A7F50090B87A /* RompecabezasApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11740ED32B51A7F50090B87A /* RompecabezasApp.swift */; };
 		11740ED62B51A7F50090B87A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11740ED52B51A7F50090B87A /* ContentView.swift */; };
-		11740ED82B51A7F50090B87A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 11740ED72B51A7F50090B87A /* Assets.xcassets */; };
 		11740EDB2B51A7F50090B87A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 11740EDA2B51A7F50090B87A /* Preview Assets.xcassets */; };
 		11740EE22B51AA320090B87A /* LaunchScreenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11740EE12B51AA320090B87A /* LaunchScreenView.swift */; };
 		11740EE42B51AA580090B87A /* GameSelect.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11740EE32B51AA580090B87A /* GameSelect.swift */; };
@@ -46,7 +45,6 @@
 		11740F462B51AD580090B87A /* SO.gif in Resources */ = {isa = PBXBuildFile; fileRef = 11740F252B51AD580090B87A /* SO.gif */; };
 		11740F472B51AD580090B87A /* SX.gif in Resources */ = {isa = PBXBuildFile; fileRef = 11740F262B51AD580090B87A /* SX.gif */; };
 		11740F482B51AD580090B87A /* SY.gif in Resources */ = {isa = PBXBuildFile; fileRef = 11740F272B51AD580090B87A /* SY.gif */; };
-		11740F492B51AD580090B87A /* S8.gif in Resources */ = {isa = PBXBuildFile; fileRef = 11740F282B51AD580090B87A /* S8.gif */; };
 		11740F4A2B51AD580090B87A /* SN.gif in Resources */ = {isa = PBXBuildFile; fileRef = 11740F292B51AD580090B87A /* SN.gif */; };
 		11740F4B2B51AD580090B87A /* SL.gif in Resources */ = {isa = PBXBuildFile; fileRef = 11740F2A2B51AD580090B87A /* SL.gif */; };
 		11740F4C2B51AD580090B87A /* SZ.gif in Resources */ = {isa = PBXBuildFile; fileRef = 11740F2B2B51AD580090B87A /* SZ.gif */; };
@@ -69,14 +67,15 @@
 		11740F5F2B51AD580090B87A /* SE.gif in Resources */ = {isa = PBXBuildFile; fileRef = 11740F3E2B51AD580090B87A /* SE.gif */; };
 		11740F602B51AD580090B87A /* SD.gif in Resources */ = {isa = PBXBuildFile; fileRef = 11740F3F2B51AD580090B87A /* SD.gif */; };
 		11740F612B51AD580090B87A /* SS.gif in Resources */ = {isa = PBXBuildFile; fileRef = 11740F402B51AD580090B87A /* SS.gif */; };
-		11740F642B51B17B0090B87A /* PuzzleSigns 1.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 11740F632B51B17B0090B87A /* PuzzleSigns 1.mlmodel */; };
+		11740F642B51B17B0090B87A /* PuzzleSigns1.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 11740F632B51B17B0090B87A /* PuzzleSigns1.mlmodel */; };
+		11740F672B5209B30090B87A /* Oxygen-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 11740F662B5209B30090B87A /* Oxygen-Regular.ttf */; };
+		11740F692B5209DD0090B87A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 11740F682B5209DD0090B87A /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		11740ED02B51A7F50090B87A /* Rompecabezas.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Rompecabezas.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		11740ED32B51A7F50090B87A /* RompecabezasApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RompecabezasApp.swift; sourceTree = "<group>"; };
 		11740ED52B51A7F50090B87A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		11740ED72B51A7F50090B87A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		11740EDA2B51A7F50090B87A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		11740EE12B51AA320090B87A /* LaunchScreenView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LaunchScreenView.swift; sourceTree = "<group>"; };
 		11740EE32B51AA580090B87A /* GameSelect.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameSelect.swift; sourceTree = "<group>"; };
@@ -113,7 +112,6 @@
 		11740F252B51AD580090B87A /* SO.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = SO.gif; sourceTree = "<group>"; };
 		11740F262B51AD580090B87A /* SX.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = SX.gif; sourceTree = "<group>"; };
 		11740F272B51AD580090B87A /* SY.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = SY.gif; sourceTree = "<group>"; };
-		11740F282B51AD580090B87A /* S8.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = S8.gif; sourceTree = "<group>"; };
 		11740F292B51AD580090B87A /* SN.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = SN.gif; sourceTree = "<group>"; };
 		11740F2A2B51AD580090B87A /* SL.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = SL.gif; sourceTree = "<group>"; };
 		11740F2B2B51AD580090B87A /* SZ.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = SZ.gif; sourceTree = "<group>"; };
@@ -136,7 +134,10 @@
 		11740F3E2B51AD580090B87A /* SE.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = SE.gif; sourceTree = "<group>"; };
 		11740F3F2B51AD580090B87A /* SD.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = SD.gif; sourceTree = "<group>"; };
 		11740F402B51AD580090B87A /* SS.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = SS.gif; sourceTree = "<group>"; };
-		11740F632B51B17B0090B87A /* PuzzleSigns 1.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = "PuzzleSigns 1.mlmodel"; sourceTree = "<group>"; };
+		11740F632B51B17B0090B87A /* PuzzleSigns1.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = PuzzleSigns1.mlmodel; sourceTree = "<group>"; };
+		11740F662B5209B30090B87A /* Oxygen-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Oxygen-Regular.ttf"; sourceTree = "<group>"; };
+		11740F682B5209DD0090B87A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../../../../Desktop/Reto_Equipo1-main/Proyecto_Equipo1/Proyecto_Equipo1/Assets.xcassets"; sourceTree = "<group>"; };
+		11740F6A2B520FB70090B87A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -169,8 +170,10 @@
 		11740ED22B51A7F50090B87A /* Rompecabezas */ = {
 			isa = PBXGroup;
 			children = (
+				11740F6A2B520FB70090B87A /* Info.plist */,
 				11740F0B2B51AD4A0090B87A /* NUMBERS_GIFs */,
 				11740F202B51AD580090B87A /* ABC_GIFs */,
+				11740F652B5209B30090B87A /* Fonts */,
 				11740ED32B51A7F50090B87A /* RompecabezasApp.swift */,
 				11740ED52B51A7F50090B87A /* ContentView.swift */,
 				11740EE12B51AA320090B87A /* LaunchScreenView.swift */,
@@ -186,7 +189,7 @@
 				11740EF52B51AB330090B87A /* Model */,
 				11740EF82B51AB490090B87A /* Data */,
 				11740EFD2B51AB780090B87A /* Foundation */,
-				11740ED72B51A7F50090B87A /* Assets.xcassets */,
+				11740F682B5209DD0090B87A /* Assets.xcassets */,
 				11740ED92B51A7F50090B87A /* Preview Content */,
 			);
 			path = Rompecabezas;
@@ -203,7 +206,7 @@
 		11740EF52B51AB330090B87A /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				11740F632B51B17B0090B87A /* PuzzleSigns 1.mlmodel */,
+				11740F632B51B17B0090B87A /* PuzzleSigns1.mlmodel */,
 				11740EF62B51AB420090B87A /* PredictionStatus.swift */,
 			);
 			path = Model;
@@ -281,7 +284,6 @@
 				11740F252B51AD580090B87A /* SO.gif */,
 				11740F262B51AD580090B87A /* SX.gif */,
 				11740F272B51AD580090B87A /* SY.gif */,
-				11740F282B51AD580090B87A /* S8.gif */,
 				11740F292B51AD580090B87A /* SN.gif */,
 				11740F2A2B51AD580090B87A /* SL.gif */,
 				11740F2B2B51AD580090B87A /* SZ.gif */,
@@ -306,6 +308,14 @@
 				11740F402B51AD580090B87A /* SS.gif */,
 			);
 			path = ABC_GIFs;
+			sourceTree = "<group>";
+		};
+		11740F652B5209B30090B87A /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				11740F662B5209B30090B87A /* Oxygen-Regular.ttf */,
+			);
+			path = Fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -368,6 +378,7 @@
 			files = (
 				11740F612B51AD580090B87A /* SS.gif in Resources */,
 				11740F5B2B51AD580090B87A /* SP.gif in Resources */,
+				11740F692B5209DD0090B87A /* Assets.xcassets in Resources */,
 				11740F522B51AD580090B87A /* SA.gif in Resources */,
 				11740F552B51AD580090B87A /* SU.gif in Resources */,
 				11740F4F2B51AD580090B87A /* SÑ.gif in Resources */,
@@ -398,11 +409,10 @@
 				11740F192B51AD4A0090B87A /* S7.gif in Resources */,
 				11740F512B51AD580090B87A /* SV.gif in Resources */,
 				11740F502B51AD580090B87A /* SW.gif in Resources */,
-				11740F492B51AD580090B87A /* S8.gif in Resources */,
-				11740ED82B51A7F50090B87A /* Assets.xcassets in Resources */,
 				11740F1E2B51AD4A0090B87A /* S3.gif in Resources */,
 				11740F182B51AD4A0090B87A /* S6.gif in Resources */,
 				11740F562B51AD580090B87A /* SB.gif in Resources */,
+				11740F672B5209B30090B87A /* Oxygen-Regular.ttf in Resources */,
 				11740F582B51AD580090B87A /* SF.gif in Resources */,
 				11740F1A2B51AD4A0090B87A /* S10.gif in Resources */,
 				11740F1D2B51AD4A0090B87A /* S1.gif in Resources */,
@@ -419,7 +429,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				11740F642B51B17B0090B87A /* PuzzleSigns 1.mlmodel in Sources */,
+				11740F642B51B17B0090B87A /* PuzzleSigns1.mlmodel in Sources */,
 				11740ED62B51A7F50090B87A /* ContentView.swift in Sources */,
 				11740EEC2B51AAB30090B87A /* LetrasView.swift in Sources */,
 				11740EF02B51AAC20090B87A /* Letra.swift in Sources */,
@@ -572,8 +582,11 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Rompecabezas/Preview Content\"";
+				DEVELOPMENT_TEAM = M34X77LFAD;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Rompecabezas/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Permisos de camara";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -600,8 +613,11 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Rompecabezas/Preview Content\"";
+				DEVELOPMENT_TEAM = M34X77LFAD;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Rompecabezas/Info.plist;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Permisos de camara";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;

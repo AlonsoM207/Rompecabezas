@@ -72,44 +72,7 @@ struct GameSelect: View {
                 }
                 .padding()
                 */
-                NavigationLink(destination: DeletrearConSenias()){
-                    ZStack{
-                        Rectangle()
-                            .foregroundColor(Color("GameStack3"))
-                            .cornerRadius(20)
-                            .frame(width: 300, height: 125)
-                        VStack{
-                            Image("Spelling")
-                                .resizable()
-                                .frame(width: 40, height: 40)
-                            Text("Deletrear")
-                                .foregroundColor(.white)
-                                .font(Font
-                                    .custom("Oxygen-Regular", size:30))
-                        }
-                    }
-                }
-                .padding()
-                //.offset(y: -20)
-                NavigationLink(destination: Home()){
-                    ZStack{
-                        Rectangle()
-                            .foregroundColor(Color("GameStack4"))
-                            .cornerRadius(20)
-                            .frame(width: 300, height: 125)
-                        VStack{
-                            Image("Options")
-                                .resizable()
-                                .frame(width: 40, height: 40)
-                            Text("Quiz")
-                                .foregroundColor(.white)
-                                .font(Font
-                                    .custom("Oxygen-Regular", size:30))
-                        }
-                    }
-                }
-                .padding()
-                //.offset(y: -40)
+                
                 }
             }
         }
