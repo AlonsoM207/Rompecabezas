@@ -69,7 +69,7 @@
 		11740F612B51AD580090B87A /* SS.gif in Resources */ = {isa = PBXBuildFile; fileRef = 11740F402B51AD580090B87A /* SS.gif */; };
 		11740F642B51B17B0090B87A /* PuzzleSigns1.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 11740F632B51B17B0090B87A /* PuzzleSigns1.mlmodel */; };
 		11740F672B5209B30090B87A /* Oxygen-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 11740F662B5209B30090B87A /* Oxygen-Regular.ttf */; };
-		11740F692B5209DD0090B87A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 11740F682B5209DD0090B87A /* Assets.xcassets */; };
+		FB67CB192B5AF89E00FB4B6C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB67CB182B5AF89E00FB4B6C /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -136,8 +136,8 @@
 		11740F402B51AD580090B87A /* SS.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = SS.gif; sourceTree = "<group>"; };
 		11740F632B51B17B0090B87A /* PuzzleSigns1.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = PuzzleSigns1.mlmodel; sourceTree = "<group>"; };
 		11740F662B5209B30090B87A /* Oxygen-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Oxygen-Regular.ttf"; sourceTree = "<group>"; };
-		11740F682B5209DD0090B87A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../../../../Desktop/Reto_Equipo1-main/Proyecto_Equipo1/Proyecto_Equipo1/Assets.xcassets"; sourceTree = "<group>"; };
 		11740F6A2B520FB70090B87A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		FB67CB182B5AF89E00FB4B6C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -189,7 +189,7 @@
 				11740EF52B51AB330090B87A /* Model */,
 				11740EF82B51AB490090B87A /* Data */,
 				11740EFD2B51AB780090B87A /* Foundation */,
-				11740F682B5209DD0090B87A /* Assets.xcassets */,
+				FB67CB182B5AF89E00FB4B6C /* Assets.xcassets */,
 				11740ED92B51A7F50090B87A /* Preview Content */,
 			);
 			path = Rompecabezas;
@@ -378,7 +378,7 @@
 			files = (
 				11740F612B51AD580090B87A /* SS.gif in Resources */,
 				11740F5B2B51AD580090B87A /* SP.gif in Resources */,
-				11740F692B5209DD0090B87A /* Assets.xcassets in Resources */,
+				FB67CB192B5AF89E00FB4B6C /* Assets.xcassets in Resources */,
 				11740F522B51AD580090B87A /* SA.gif in Resources */,
 				11740F552B51AD580090B87A /* SU.gif in Resources */,
 				11740F4F2B51AD580090B87A /* SÑ.gif in Resources */,
